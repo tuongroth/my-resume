@@ -1,110 +1,67 @@
-Để nhà tuyển dụng hoặc người xem có thể dễ dàng thấy và đánh giá các dự án của bạn trên GitHub, bạn cần chuẩn bị đầy đủ các yếu tố sau cho repository của mình:
+# CV - Tuong Roth
 
-### 1. **README rõ ràng và chi tiết**
-   - README là tài liệu đầu tiên mà người khác nhìn thấy khi truy cập vào repository của bạn, vì vậy nó phải rõ ràng và dễ hiểu.
-   - README nên có:
-     - Giới thiệu về dự án (tên, mục tiêu, tính năng chính).
-     - Hướng dẫn cách cài đặt và chạy dự án.
-     - Cách sử dụng và ví dụ về ứng dụng.
-     - Liên kết đến phiên bản trực tuyến (nếu có) để người dùng có thể thử nghiệm trực tiếp.
-     - Các thông tin bổ sung như công nghệ sử dụng, liên hệ, và giấy phép.
+Chào mừng đến với repository CV của tôi! Trong file này, bạn sẽ tìm thấy thông tin về tôi, các kỹ năng, dự án tôi đã làm, và cách thức liên hệ. Đây là nơi tôi trình bày những gì tôi đã học và những gì tôi có thể đóng góp cho các dự án.
 
-### 2. **Triển khai online**
-   - Một trong những cách giúp dự án của bạn trở nên hấp dẫn hơn là triển khai nó trực tuyến để người khác có thể dễ dàng kiểm tra. Bạn có thể sử dụng các dịch vụ miễn phí như **Vercel**, **Netlify**, hoặc **Heroku**.
-     - Khi triển khai, bạn nên cập nhật liên kết vào README để người xem có thể dễ dàng truy cập và thử nghiệm ứng dụng của bạn trực tiếp.
+## Giới thiệu
+Tôi là một lập trình viên **Full-Stack JavaScript** đam mê xây dựng các ứng dụng web và giải quyết vấn đề với công nghệ. Với kinh nghiệm trong **React**, **Node.js**, **Express**, **MongoDB**, và các công nghệ hiện đại khác, tôi luôn tìm kiếm cơ hội để phát triển và thử thách bản thân trong môi trường công nghệ năng động.
 
-### 3. **Ví dụ về repository**
-   Dưới đây là một ví dụ về cách một repository có thể được cấu trúc trên GitHub với README đầy đủ và liên kết triển khai.
+## Kỹ năng
+### Frontend:
+- **JavaScript** (ES6+)
+- **React.js** và **Redux**
+- **HTML5**, **CSS3**, **SASS**
+- Responsive Web Design (Bootstrap, CSS Grid, Flexbox)
+- **Vue.js** (nếu có)
 
-#### Cấu trúc repository:
-```
-/my-project
-    /src
-    /public
-    /components
-    README.md
-    package.json
-    .gitignore
-```
+### Backend:
+- **Node.js**
+- **Express.js**
+- **MongoDB**, **MySQL**
+- **API RESTful**
+- **GraphQL** (nếu có)
 
-#### Ví dụ nội dung README.md:
+### Công nghệ khác:
+- **Git**, **GitHub**
+- **Docker** (nếu có)
+- **AWS**, **Heroku**, **Vercel**, **Netlify** (triển khai ứng dụng)
 
-```markdown
-# My Awesome Project
+## Dự Án
+Dưới đây là các dự án tôi đã thực hiện, thể hiện các kỹ năng tôi đã học và ứng dụng vào thực tế.
 
-This project is a full-stack application that allows users to do X, Y, and Z. It's built using JavaScript, React, Node.js, and MongoDB.
+### 1. [Dự Án 1: AI Chatbot for Customer Support]
+- **Mô tả**: Phát triển một chatbot sử dụng AI để hỗ trợ khách hàng tự động trả lời các câu hỏi thường gặp.
+- **Công nghệ sử dụng**: React, Node.js, TensorFlow, NLTK.
+- **Thành tựu**: Giảm thời gian phản hồi khách hàng từ 5 phút xuống dưới 30 giây.
+- **Link GitHub**: [GitHub Link](https://github.com/tuongroth/my-project)
+- **Link Demo**: [Demo Link](https://drive.google.com/file/d/1-svA1QXAkW1CNQbw-_i_grWY4c9N9Q3c/view)
 
-## Features
-- User authentication
-- Real-time data updates
-- Responsive design
-- Easy to deploy on Vercel or Heroku
+### 2. [Dự Án 2: E-commerce Website]
+- **Mô tả**: Xây dựng website bán hàng với tính năng quản lý giỏ hàng và thanh toán.
+- **Công nghệ sử dụng**: React, Node.js, MongoDB.
+- **Thành tựu**: Đảm bảo tính ổn định của hệ thống khi lượng truy cập tăng vọt.
+- **Link GitHub**: [GitHub Link](https://github.com/tuongroth/rate-application)
+- **Link Demo**: [Demo Link](https://yourprojectlink.com)
 
-## Tech Stack
-- Frontend: React, Redux
-- Backend: Node.js, Express
-- Database: MongoDB
+### 3. [Dự Án 3: Full-Stack Web Application Project]
+- **Mô tả**: Phát triển ứng dụng web giúp người dùng quản lý công việc trong các tình huống khẩn cấp hoặc thời gian dài.
+- **Công nghệ sử dụng**: Node.js, Express, MongoDB, JWT, GraphQL, Docker.
+- **Link GitHub**: [GitHub Link](https://github.com/tuongroth/my-project)
+- **Link Demo**: [Demo Link](https://yourprojectlink.com)
 
-## Live Demo
-You can check out the live version of this app here:
-[Live Demo on Vercel](https://my-awesome-project.vercel.app)
+## Bằng cấp và Chứng chỉ
+- **Chứng chỉ Full Stack Web Development** từ FreeCodeCamp (2024)
+- **Chứng chỉ AI & Machine Learning** từ Coursera (2023)
+- **Chứng chỉ JavaScript** từ Udemy (2022)
 
-## Installation
+## Liên hệ
+Bạn có thể liên hệ với tôi qua các kênh dưới đây:
+- **Email**: rothtrancattuong0703@gmail.com
+- **LinkedIn**: [https://linkedin.com/in/tuongroth](https://linkedin.com/in/tuongroth)
+- **GitHub**: [https://github.com/tuongroth](https://github.com/tuongroth)
 
-To get this project up and running locally, follow these steps:
+## Mục tiêu nghề nghiệp
+Tôi mong muốn phát triển sự nghiệp trong lĩnh vực phát triển phần mềm, đặc biệt là trong các dự án sử dụng công nghệ web hiện đại và AI. Tôi tìm kiếm cơ hội làm việc trong một môi trường năng động, nơi tôi có thể học hỏi và đóng góp cho sự phát triển của công ty.
 
-1. Clone the repo
-   ```bash
-   git clone https://github.com/username/my-awesome-project.git
-   ```
-   
-2. Navigate to the project directory
-   ```bash
-   cd my-awesome-project
-   ```
+## Giấy phép
+Dự án này được cấp phép dưới giấy phép [MIT](https://opensource.org/licenses/MIT).
 
-3. Install dependencies
-   ```bash
-   npm install
-   ```
-
-4. Start the development server
-   ```bash
-   npm start
-   ```
-
-## Usage
-Once the server is running, visit `http://localhost:3000` in your browser to view the app.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-- GitHub: [username](https://github.com/username)
-- Email: example@example.com
-```
-
-### 4. **Cách triển khai dự án với Vercel, Netlify hoặc Heroku**
-
-- **Vercel**:
-  - Tạo một tài khoản và kết nối repository của bạn từ GitHub vào Vercel.
-  - Vercel sẽ tự động triển khai ứng dụng của bạn mỗi khi bạn push mã nguồn mới lên repository.
-  - Sau khi triển khai thành công, bạn sẽ nhận được một liên kết đến trang web của mình.
-
-- **Netlify**:
-  - Tương tự như Vercel, bạn có thể kết nối GitHub repository với Netlify để triển khai tự động.
-  - Netlify sẽ cung cấp liên kết cho dự án của bạn.
-
-- **Heroku**:
-  - Tạo một tài khoản trên Heroku, kết nối với GitHub và chọn repository cần triển khai.
-  - Heroku sẽ giúp bạn triển khai ứng dụng và cung cấp một URL để truy cập vào ứng dụng.
-
-### 5. **Làm thế nào để nhà tuyển dụng thấy các dự án của bạn?**
-   - **Chia sẻ GitHub Repository**: Bạn có thể đưa liên kết đến các dự án GitHub của bạn trong CV, trong thư xin việc, hoặc thậm chí trên LinkedIn. Nếu nhà tuyển dụng hoặc người xem muốn xem chi tiết, họ có thể truy cập vào repository của bạn và dễ dàng kiểm tra các dự án.
-   
-   - **Portfolio Website**: Nếu bạn có một trang web cá nhân hoặc portfolio, hãy bao gồm các dự án GitHub của bạn tại đó. Bạn có thể tạo một trang "Projects" để trưng bày các dự án của mình, bao gồm mô tả, liên kết đến repository, và liên kết đến phiên bản trực tuyến.
-
-### 6. **Chia sẻ ví dụ repository trên GitHub**
-   - Sau khi hoàn tất README và triển khai, bạn có thể chia sẻ liên kết repository GitHub của mình. Ví dụ: `https://github.com/username/my-awesome-project`.
-
-Khi nhà tuyển dụng nhìn thấy một repository với README rõ ràng và có một bản triển khai trực tuyến, họ sẽ dễ dàng đánh giá năng lực của bạn, cũng như khả năng làm việc với công nghệ web hiện đại.
